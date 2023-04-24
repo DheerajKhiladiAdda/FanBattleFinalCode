@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/inner_bg">
+    <include
+        android:id="@+id/action_bar_top"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_width="wrap_content"
+        layout="@layout/actionbar_clash_and_fanbattle">
+    </include>
+    <RelativeLayout
+        android:id="@+id/rl_image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:layout_below="@+id/action_bar_top"
+        android:layout_height="wrap_content">
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/vp_advertisement"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_alignParentTop="true" />
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="match_parent"
+            android:layout_height="165dp"
+            android:contentDescription="@string/text_pubg"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_heading"
+        style="@style/BattleHeadLatoFontText"
+        android:layout_below="@+id/rl_image"
+        android:text="@string/fan_battle" />
+
+    <TextView
+        android:id="@+id/tv_description"
+        style="@style/BattleDescLatoFontText"
+        android:layout_below="@+id/tv_heading"
+        android:layout_marginStart="@dimen/margin_20"
+        android:text="@string/text_cricket_description" />
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ll_bottom"
+        android:layout_below="@+id/tv_description"
+        android:layout_marginTop="@dimen/margin_5">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_match"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_10"
+            android:layout_marginEnd="@dimen/margin_10" />
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <include layout="@layout/footer_white" />
+
+</RelativeLayout>

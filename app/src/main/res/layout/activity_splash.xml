@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/newblack">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content">
+        <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/fanbattle_logo" />
+         <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_logo"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_instant_withdrawal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_sp_instant_withdrawal"
+            android:drawablePadding="@dimen/_10sdp"
+            android:fontFamily="@font/montserrat"
+            android:text="@string/tv_instant_withdrawal"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold" />
+            <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_aifg_approved"
+                android:layout_width="@dimen/_16sdp"
+                android:src="@drawable/ic_sp_aigf_white"
+                android:layout_height="@dimen/_16sdp">
+            </ImageView>
+            <TextView
+                android:id="@+id/tv_aifg_approved"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_16sdp"
+                android:layout_marginStart="@dimen/_16sdp"
+                android:fontFamily="@font/montserrat"
+                android:layout_toRightOf="@+id/iv_aifg_approved"
+                android:text="@string/text_splash_aigf_approved"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14ssp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_real_player"
+                android:layout_width="@dimen/_16sdp"
+                android:src="@drawable/sp_real_payer"
+                android:layout_height="@dimen/_16sdp">
+            </ImageView>
+            <TextView
+                android:id="@+id/tv_real_player"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_16sdp"
+                android:layout_marginStart="@dimen/_16sdp"
+                android:fontFamily="@font/montserrat"
+                android:layout_toRightOf="@+id/iv_real_player"
+                android:text="@string/_100_real_players"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14ssp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+    </LinearLayout>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bg_splash" />
+</RelativeLayout>

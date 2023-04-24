@@ -1,0 +1,128 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_bottom">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10"
+            android:orientation="vertical">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv_fanbattle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_10sdp"
+                        android:text="@string/fan_battle"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/text_20" />
+                        <TextView
+                        android:id="@+id/tv_fanbattledes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/margin_10"
+                        android:layout_marginTop="@dimen/margin_5"
+                        android:layout_marginEnd="@dimen/margin_10"
+                            android:textSize="@dimen/_10ssp"
+                            android:fontFamily="@font/montserrat"
+                        android:text="@string/text_no_more__winning_big"
+                        android:textColor="#838383"/>
+                    <com.google.android.material.card.MaterialCardView
+                        android:layout_width="match_parent"
+                        android:layout_marginStart="@dimen/_10sdp"
+                        android:layout_marginTop="@dimen/margin_5"
+                        app:cardCornerRadius="@dimen/_8sdp"
+                        app:strokeColor="@color/card_red"
+                        app:strokeWidth="@dimen/_2sdp"
+                        android:elevation="@dimen/_4sdp"
+                        android:layout_marginEnd="@dimen/_10sdp"
+                        android:layout_height="@dimen/_170sdp">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/iv_fanbattle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:scaleType="fitCenter"
+                        android:background="@drawable/fanbattle_dash"
+                        android:contentDescription="@string/room_id"/>
+                    </com.google.android.material.card.MaterialCardView>
+                    <TextView
+                        android:id="@+id/tv_clashx"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_10sdp"
+                        android:layout_marginTop="@dimen/_4sdp"
+                        android:text="@string/clashx"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/text_20" />
+
+                    <TextView
+                        android:id="@+id/tv_clashxdes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_10ssp"
+                        android:fontFamily="@font/montserrat"
+                        android:layout_marginStart="@dimen/_10sdp"
+                        android:layout_marginTop="@dimen/_4sdp"
+                        android:layout_marginEnd="@dimen/_10sdp"
+                        android:text="@string/text_clashx_discription"
+                        android:textColor="#838383"/>
+                    <com.google.android.material.card.MaterialCardView
+                        android:layout_width="match_parent"
+                        android:layout_marginStart="@dimen/_10sdp"
+                        android:layout_marginTop="@dimen/margin_5"
+                        app:cardCornerRadius="@dimen/_8sdp"
+                        app:strokeColor="@color/card_red"
+                        app:strokeWidth="@dimen/_2sdp"
+                        android:elevation="@dimen/_4sdp"
+                        android:layout_marginEnd="@dimen/_10sdp"
+                        android:layout_height="@dimen/_170sdp">
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/iv_clashx"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:contentDescription="@string/room_id"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/clashx_dash"/>
+                    </com.google.android.material.card.MaterialCardView>
+
+                    <TextView
+                        android:id="@+id/tv_resp_gaming"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/margin_30"
+                        android:layout_marginTop="@dimen/margin_15"
+                        android:layout_marginEnd="@dimen/margin_30"
+                        android:fontFamily="@font/montserrat"
+                        android:layout_marginBottom="@dimen/margin_20"
+                        android:gravity="center"
+                        android:text="@string/txt_play_responsible_dashboard"
+                        android:textColor="#838383"
+                        android:textSize="@dimen/_12ssp"/>
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <include layout="@layout/footer_home" />
+
+</RelativeLayout>

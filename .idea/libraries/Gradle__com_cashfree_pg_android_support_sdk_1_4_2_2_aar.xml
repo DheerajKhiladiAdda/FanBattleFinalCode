@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cashfree.pg:android-support-sdk:1.4.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

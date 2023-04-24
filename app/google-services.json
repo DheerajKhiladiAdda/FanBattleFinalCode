@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260457956171",
+    "project_id": "fanbattle-1d160",
+    "storage_bucket": "fanbattle-1d160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260457956171:android:1bb89237816ada80d89ece",
+        "android_client_info": {
+          "package_name": "com.khiladiadda.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260457956171-6lodj4adq9gjs9eu2m9doohtoqn8j4lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khiladiadda.in",
+            "certificate_hash": "faca193d1f0dae39afbf0cfe2941a88b7240d45b"
+          }
+        },
+        {
+          "client_id": "260457956171-vpoda1soufobj70gir71l2ktvsnb6p73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4wOWHOAfutKY46bLBcXsD_24YEi3sAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260457956171-vpoda1soufobj70gir71l2ktvsnb6p73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

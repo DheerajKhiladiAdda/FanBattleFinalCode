@@ -1,0 +1,1958 @@
+[
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_web_payment.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_web_payment.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_bank.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_bank.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_sp_real_payer.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/sp_real_payer.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_rummy.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_rummy.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_combo.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/combo.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_nav_setting.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-mdpi/ic_nav_setting.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_create_battle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_create_battle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_baseline_cancel.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_baseline_cancel.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_selector_checkbox.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/selector_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_actionbar_background_circle_red.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/actionbar_background_circle_red.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_scratchcard_dialog.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/scratchcard_dialog.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_fragment_banner.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/fragment_banner.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_profile_new.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_profile_new.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_card_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/card_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_button_background_notselected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/button_background_notselected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/font_montserrat.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/font/montserrat.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg_unselected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg_unselected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_link_upi.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/link_upi.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_refresh.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_apexpay_new.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/apexpay_new.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_withdraw_verification.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_withdraw_verification.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/raw_uat_api_khiladiadda_com.crt.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/raw/uat_api_khiladiadda_com.crt"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_low_earning.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_low_earning.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_leaderboard.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_reverse_3.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/reverse_3.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_bonus_trophy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/bonus_trophy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_new_link_bank.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/new_link_bank.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_live_credential.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_live_credential.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_sp_instant_withdrawal.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_sp_instant_withdrawal.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_nav_setting.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-hdpi/ic_nav_setting.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_error.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_error.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_trophy_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_trophy_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_group_bg_green.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_group_bg_green.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_battle_group.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_battle_group.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_notselectedcircle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_notselectedcircle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_email.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_email.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_playerselected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_playerselected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_quiz_progress_bar.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/quiz_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_instagram.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_instagram.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_chat.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_rummy.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_rummy.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_message_receiver.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_message_receiver.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_stat.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_stat.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_arrow_right_circle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_arrow_right_circle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_logo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xxhdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_cross.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_cross.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_redeem_voucher.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/redeem_voucher.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_green_button.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_green_button.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_keyboard_arrow_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_keyboard_arrow_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_profile.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_hth_step6.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/hth_step6.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/raw_successanimation.json.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/raw/successanimation.json"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_video_help.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/video_help.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_select_group.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_select_group.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_withdraw_otp.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_withdraw_otp.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_playerunselected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_playerunselected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_footer_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/footer_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_reverse_1.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/reverse_1.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg_selectedhth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg_selectedhth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_bank.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_bank.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_coins.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_coins.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_top_khiladi_item_new.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/top_khiladi_item_new.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_upi_pg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/upi_pg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_nav_setting.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_nav_setting.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_silvercoins_transfer.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_silvercoins_transfer.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/font_rowdies_regular.ttf.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/font/rowdies_regular.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_button_backgroud.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/button_backgroud.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_main_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xxxhdpi/main_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_fragment_player.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/fragment_player.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_support_help.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/support_help.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_unselected_old_merchant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/unselected_old_merchant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_update_ludo.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_update_ludo.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_check.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_leaderboard_btn_bg_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/leaderboard_btn_bg_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_selectedplayers.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_selectedplayers.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_cashfree.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/cashfree.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_clock.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_high_earning.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_high_earning.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_gpay.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/gpay.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_rummy_recharge_dialog.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/rummy_recharge_dialog.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_link_paytm.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/link_paytm.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_fanbattle_scratch.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/fanbattle_scratch.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_add_challange.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_add_challange.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_dotcircleplus.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_dotcircleplus.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_textview_background_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/textview_background_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_inner_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xhdpi/inner_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_trophy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-hdpi/ic_trophy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_arrow_back_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_arrow_back_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fav_bg.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fav_bg.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_close_webview.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_close_webview.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_battles_upcoming.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_battles_upcoming.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_payment_success.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/payment_success.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundborder_primary_dark.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundborder_primary_dark.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_clashx_dash.gif.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/clashx_dash.gif"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_plus_circle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_plus_circle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_jointeampopup.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/jointeampopup.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_logo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xhdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_delete_black_24dp.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_bnktransfer.jpg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/bnktransfer.jpg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_ui.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_ui.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_group_joined.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_group_joined.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_tick.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_tick.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_lineup.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_lineup.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_favourite.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/raw_qa.crt.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/raw/qa.crt"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_fb.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_fb.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_refer.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_refer.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_play.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_hth_step2.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/hth_step2.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_payment_history.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_payment_history.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_telegram.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_telegram.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_version.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/version.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_phonepe.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/phonepe.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_manual_withdraw.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_manual_withdraw.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_delete.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_delete.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_join_battle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_join_battle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_close.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_bg_purple.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/bg_purple.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundborder_ludo_uni.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundborder_ludo_uni.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_selectedplayersedit.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_selectedplayersedit.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_bg_purple_unselected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/bg_purple_unselected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_invite.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_invite.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_tick_ended.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_tick_ended.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundbutton_red_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundbutton_red_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_inner_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xxxhdpi/inner_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_paytm_upi.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/paytm_upi.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ludo_button.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ludo_button.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_stat_tv_bg_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/stat_tv_bg_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_select_group.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_select_group.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_green_background.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/green_background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_helpfantasy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/helpfantasy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_combobig.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/combobig.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_app_logo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-hdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_crown__sliver.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_crown__sliver.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_game_web.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_game_web.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_leaderboard_btn_bg_unselected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/leaderboard_btn_bg_unselected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_border_grey.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/border_grey.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_network.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_network.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_overlayteam.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_overlayteam.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_shape_button_red.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/shape_button_red.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_all_help.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_all_help.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_show_error_popup_del.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/show_error_popup_del.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_trophy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_trophy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-v21_dialog_shape.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-v21/dialog_shape.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_player_points.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_player_points.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_rummy_history.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_rummy_history.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_add_ludo_universe.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_add_ludo_universe.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_payment_failure.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/payment_failure.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_new_item_beneficiary.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/new_item_beneficiary.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_trophy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-ldpi/ic_trophy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_logout.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/logout.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_drop_down_black_.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_drop_down_black_.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_withdraw_reverify.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_withdraw_reverify.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_inner_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-mdpi/inner_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_unselected_merchant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/unselected_merchant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_beneficiary.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_beneficiary.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_group.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_group.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_dashboard.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-v21/ic_menu_dashboard.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_main_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-hdpi/main_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_withdraw.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_withdraw.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_terms.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_terms.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_inner_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xxhdpi/inner_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_support_icon.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_support_icon.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_link_amazon_pay.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/link_amazon_pay.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_past_leaderboard.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_past_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_image.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_image.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fanbattle_scr.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fanbattle_scr.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_challenge_add_complete_popup.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/challenge_add_complete_popup.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_onesiedcurve_purple.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_onesiedcurve_purple.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_rummy_btn.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_rummy_btn.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_vector_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_vector_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/font_productsansregular.ttf.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/font/productsansregular.ttf"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_help.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_help.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_past_leaderboard.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_past_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_refer_help.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_refer_help.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_manual_withdraw.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_manual_withdraw.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_network_issue.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_network_issue.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_paytm.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_paytm.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_my_fan_league_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_my_fan_league_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_button_background_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/button_background_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_link_bank_transfer.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/link_bank_transfer.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_social_button.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_social_button.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_sort.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_sort.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_new_withdraw.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_new_withdraw.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_hth_step4.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/hth_step4.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg_blue.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg_blue.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_bank.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-mdpi/ic_bank.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_ui.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-mdpi/ic_ui.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_message_sender.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_message_sender.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_youtube.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_youtube.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/raw_notification_new.mpeg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/raw/notification_new.mpeg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_fragment_review.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/fragment_review.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_game_credential.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_game_credential.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_share_teamid_dialog.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/share_teamid_dialog.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_stat_tv_bg_selected_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/stat_tv_bg_selected_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_selected_players.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_selected_players.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_hth_step5.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/hth_step5.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_chat.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_chat.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_gif.gif.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_gif.gif"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_whitebutton.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/whitebutton.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_alert_icon_yellow.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-mdpi/ic_alert_icon_yellow.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_sp_aigf_white.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_sp_aigf_white.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_list_notification.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/list_notification.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_select_coins.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/select_coins.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_baseline_close_24.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_rummy.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_rummy.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_wait.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_wait.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_new_link_paytm.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/new_link_paytm.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_ui.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_ui.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_refer.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_refer.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_delete_notification.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_delete_notification.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_battle_help.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_battle_help.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_alert_icon_yellow.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_alert_icon_yellow.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_help.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_stats.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_stats.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_battle_group_one.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_battle_group_one.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_invite.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_invite.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_nav_setting.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_nav_setting.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_select_coins_battle_purple.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/select_coins_battle_purple.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_playerbackground.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_playerbackground.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_outline_history.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_outline_history.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_border_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/border_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_new_registration.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_new_registration.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_select_coins_blue.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/select_coins_blue.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_withdraw_confirm.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_withdraw_confirm.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_email.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_email.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fb_classic.jpg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fb_classic.jpg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_aadhar.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_aadhar.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_invite_code.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_invite_code.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_reverse_4.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/reverse_4.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_update_username.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_update_username.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_username.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_username.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_update.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_update.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_alert_icon_yellow.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_alert_icon_yellow.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_help.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_btn_bg_fb.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/btn_bg_fb.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_ui.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-hdpi/ic_ui.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_selected_marchant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/selected_marchant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_upi.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_upi.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_crown__brown.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_crown__brown.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundborder_player_selecthth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundborder_player_selecthth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_main_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xhdpi/main_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_clashx_scratch.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/clashx_scratch.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-v21_bg_button.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-v21/bg_button.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_match.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_match.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_time.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_time.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_battle_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_battle_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_round_top_background.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_round_top_background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_new_link_paytm_wallet.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/new_link_paytm_wallet.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_battle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_battle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_app_logo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-mdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_rummy_players_rectangle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/rummy_players_rectangle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_notification.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_footer_home.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/footer_home.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_withdraw.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/withdraw.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_scratch_card.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_scratch_card.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_clash_and_fanbattle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_clash_and_fanbattle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_image_background.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xxxhdpi/image_background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_nav_setting.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_nav_setting.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundbutton_green.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundbutton_green.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_live_group.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_live_group.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_footer.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_nav_tutorial.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/nav_tutorial.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_other_query.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/other_query.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_refer_help.jpg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/refer_help.jpg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_nav_header_main.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_app_bg.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/app_bg.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_login_bottom.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/login_bottom.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_inner_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-hdpi/inner_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_transact.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_transact.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_khiladi_adda_loader.gif.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/khiladi_adda_loader.gif"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_bank.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_bank.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_border_red_black.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/border_red_black.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_view_line_gray.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/view_line_gray.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_trophy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-mdpi/ic_trophy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_social_verify.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_social_verify.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundborder_pink_red.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundborder_pink_red.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_battle_category.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_battle_category.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_newleaderboard_btn_bg.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/newleaderboard_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_nav_setting.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_nav_setting.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_kyc.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_kyc.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_hourglass.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_hourglass.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_pan.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_pan.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_selectedplayerseditplayer.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_selectedplayerseditplayer.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_ready_circle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_ready_circle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_editext_background.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/editext_background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_group_bg_default.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_group_bg_default.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_battles_score.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/battles_score.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_arrow_forward_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_arrow_forward_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_old_selector_merchant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_old_selector_merchant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_sc_fb_new.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/sc_fb_new.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_battle_player_selection.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_battle_player_selection.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_hth_step3.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/hth_step3.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_alert_circle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_alert_circle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_paytm.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/paytm.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_player_points.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_player_points.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_date.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_date.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_selectedplayersopp.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_selectedplayersopp.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_selector_merchant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_selector_merchant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_check_green.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_check_green.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_icfanlogo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/icfanlogo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-mdpi_main_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-mdpi/main_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_payment_confirmation.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_payment_confirmation.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_edittext_selector.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/edittext_selector.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_unselected_fav.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/unselected_fav.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_paytm_help.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/paytm_help.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fbstats.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fbstats.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_amazonpay.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/amazonpay.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_match_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_match_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_battle_hth_noswipe.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_battle_hth_noswipe.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_discount.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_discount.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_glow.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_glow.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_app_progresss.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_app_progresss.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_ui.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_ui.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_select_coins_more.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/select_coins_more.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_whitlebackground.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/whitlebackground.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_app_logo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xxxhdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_error_dialog.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/error_dialog.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundborder_black.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundborder_black.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_lock.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_facebook.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_alert_icon_yellow.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-hdpi/ic_alert_icon_yellow.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_add_wallet.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_add_wallet.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/xml_provider_paths_app.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/xml/provider_paths_app.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_reverse_2.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/reverse_2.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_myleague_leaderboard.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_myleague_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_fragment_game.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/fragment_game.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_otp.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_otp.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_hthbattles.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_hthbattles.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fb_help_one.jpg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fb_help_one.jpg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_group_bg.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/group_bg.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_rummy.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_rummy.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_forgot_password.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fanbattle_logo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fanbattle_logo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_stat_tv_bg_normal.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/stat_tv_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_profile.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_send.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_clashx.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/clashx.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_newleaderboard.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_newleaderboard.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_all_matches_hthactivity.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_all_matches_hthactivity.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_stat_tv_bg.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/stat_tv_bg.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_trending_up.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_trending_up.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_color_cursor.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/color_cursor.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_notification_badge.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_notification_badge.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_crown.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_crown.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_new_link_upi.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/new_link_upi.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_scratchcard_fb.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/scratchcard_fb.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_circular_green.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/circular_green.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_dialog_shape_versionhth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/dialog_shape_versionhth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_wallet.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_wallet.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_trophy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_trophy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_app_bar_main.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_ui.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-ldpi/ic_ui.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_chat_support.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_chat_support.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_trophy.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_trophy.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_gift_icon.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_gift_icon.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_checkbox_checked.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/checkbox_checked.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundborder_primary.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundborder_primary.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_view_line_gray_vertical.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/view_line_gray_vertical.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_gaming.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_gaming.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fanbattle_dash.gif.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fanbattle_dash.gif"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_alert_icon_yellow.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-ldpi/ic_alert_icon_yellow.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_plus.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-anydpi/ic_plus.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_withdraw.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_withdraw.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_select_coins_more_blue.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/select_coins_more_blue.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_successfull.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_successfull.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_selected_old_marchant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/selected_old_marchant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_aadhar_manual.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_aadhar_manual.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_player_status.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_player_status.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_select_mode.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/select_mode.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-v21_dialog_shape_version.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-v21/dialog_shape_version.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_ui.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_ui.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_profile.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_paytm_upi.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_paytm_upi.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_bank.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-ldpi/ic_bank.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_hth_step1.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/hth_step1.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg_selected_blue.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg_selected_blue.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_group_bg_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/group_bg_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_group_bg_normal.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/group_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_battle.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/battle.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_entryicon.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_entryicon.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_participant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_participant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_battle_points.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_battle_points.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_wallet.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_setting.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_playernotplaying.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_playernotplaying.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_transparent.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_transparent.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_video.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_video.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_bookmark_black.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_bookmark_black.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_graycolor.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/graycolor.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_actionbar_home.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/actionbar_home.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_alert_icon_yellow.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_alert_icon_yellow.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_my_fan_league.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_my_fan_league.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_phone.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_stat_fb.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/stat_fb.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_stat_cx.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/stat_cx.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_subitute.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_subitute.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_info.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_alert_icon_yellow.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_alert_icon_yellow.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fb_help_three.jpg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fb_help_three.jpg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fb_help_four.jpeg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fb_help_four.jpeg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_battle_progress_bar.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/battle_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_participant.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_participant.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_notification_help.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_notification_help.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_scratch.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_scratch.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_black_round.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/black_round.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_tick_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_tick_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_dialog_create_game_payment.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/dialog_create_game_payment.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_create_team.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_create_team.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_checkbox_blank.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/checkbox_blank.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_gray_editext.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/gray_editext.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_video.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_video.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_purple_bg_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_purple_bg_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_new_login.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_new_login.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_easebuzz.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/easebuzz.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_close_button.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_close_button.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_live_battle_group_one.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_live_battle_group_one.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_border_bottom_white.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/border_bottom_white.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_text_selector.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/text_selector.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_profile_mobile.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/profile_mobile.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_circular.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/circular.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_textview_background_black.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/textview_background_black.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_rummy_logo.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_rummy_logo.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_player_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/player_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_battle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_battle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fanbattlelb.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fanbattlelb.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_trophy.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_trophy.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_help_details.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_help_details.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_roundbutton_red.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/roundbutton_red.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_upi.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/upi.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_deposit.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/deposit.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_player_selectionhth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/player_selectionhth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_bg_splash.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/bg_splash.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_bonus_info_popup.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/bonus_info_popup.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_nav_setting.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-ldpi/ic_nav_setting.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_rummy_logs_web_view.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_rummy_logs_web_view.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_footer_white_hth.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/footer_white_hth.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg_purple.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg_purple.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_refer_icon.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/refer_icon.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_fb_help_two.jpg.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/fb_help_two.jpg"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_rac_bg_top_half.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/rac_bg_top_half.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/raw_prodps.crt.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/raw/prodps.crt"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_btn_bg_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_btn_bg_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_edit_black.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_edit_black.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_bank.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_bank.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_bank.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/generated/res/pngs/debug/drawable-hdpi/ic_bank.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_fan_battle.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_fan_battle.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_dot_circle.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_dot_circle.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_fb_error_dialog.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/fb_error_dialog.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_ic_drop_up_black.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/ic_drop_up_black.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_stat_tv_bg_selected.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/stat_tv_bg_selected.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_main_bg.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable-xxhdpi/main_bg.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_match_new.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_match_new.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_item_withdraw.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/item_withdraw.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_bg_button_purple.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/bg_button_purple.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/debug/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_transaction.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_transaction.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_unselected_merchantred.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/unselected_merchantred.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_leaderboard_btn_bg.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/leaderboard_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/drawable_live_group_bg_yellow.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/drawable/live_group_bg_yellow.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_popup.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/popup.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_items_of_rummy_history.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/items_of_rummy_history.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/build/intermediates/res/merged/debug/layout_activity_update_profile.xml.flat",
+        "source": "/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/res/layout/activity_update_profile.xml"
+    }
+]

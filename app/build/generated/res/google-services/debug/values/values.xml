@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">260457956171-vpoda1soufobj70gir71l2ktvsnb6p73.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">260457956171</string>
+    <string name="google_api_key" translatable="false">AIzaSyAG4wOWHOAfutKY46bLBcXsD_24YEi3sAA</string>
+    <string name="google_app_id" translatable="false">1:260457956171:android:1bb89237816ada80d89ece</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAG4wOWHOAfutKY46bLBcXsD_24YEi3sAA</string>
+    <string name="google_storage_bucket" translatable="false">fanbattle-1d160.appspot.com</string>
+    <string name="project_id" translatable="false">fanbattle-1d160</string>
+</resources>

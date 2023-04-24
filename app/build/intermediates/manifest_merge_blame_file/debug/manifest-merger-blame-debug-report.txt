@@ -1,0 +1,1286 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.khiladiadda.in"
+4    android:versionCode="9"
+5    android:versionName="2.2.8" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:6:5-80
+11-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:7:5-81
+12-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:8:5-65
+13-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:8:22-62
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:9:5-67
+14-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:10:5-76
+15-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:10:22-73
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:11:5-79
+16-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+17-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:12:5-98
+17-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:12:22-95
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:13:5-81
+18-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:14:5-79
+19-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:14:22-76
+20    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+20-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:15:5-81
+20-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:15:22-78
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- Receive notificaton when app is closed -->
+21-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:16:5-75
+21-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:16:22-72
+22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+22-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:17:5-82
+22-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:17:22-79
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:18:5-68
+23-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:18:22-65
+24
+25    <queries>
+25-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:22:5-29:15
+26        <package android:name="com.google.android.apps.nbu.paisa.user" />
+26-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:23:9-74
+26-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:23:18-71
+27        <package android:name="net.one97.paytm" />
+27-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:24:9-51
+27-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:24:18-48
+28        <package android:name="com.phonepe.app" />
+28-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:25:9-51
+28-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:25:18-48
+29        <package android:name="in.org.npci.upiapp" />
+29-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:26:9-54
+29-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:26:18-51
+30        <package android:name="in.amazon.mShop.android.shopping" />
+30-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:27:9-68
+30-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:27:18-65
+31        <package android:name="com.whatsapp" />
+31-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:28:9-48
+31-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:28:18-45
+32        <package android:name="androidx.test.orchestrator" />
+32-->[androidx.test:runner:1.4.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/44dbe26ec547516eb25cd9fe65af3c6f/runner-1.4.0/AndroidManifest.xml:25:9-62
+32-->[androidx.test:runner:1.4.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/44dbe26ec547516eb25cd9fe65af3c6f/runner-1.4.0/AndroidManifest.xml:25:18-59
+33        <package android:name="androidx.test.services" />
+33-->[androidx.test:runner:1.4.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/44dbe26ec547516eb25cd9fe65af3c6f/runner-1.4.0/AndroidManifest.xml:26:9-58
+33-->[androidx.test:runner:1.4.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/44dbe26ec547516eb25cd9fe65af3c6f/runner-1.4.0/AndroidManifest.xml:26:18-55
+34        <package android:name="com.google.android.apps.common.testing.services" />
+34-->[androidx.test:runner:1.4.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/44dbe26ec547516eb25cd9fe65af3c6f/runner-1.4.0/AndroidManifest.xml:27:9-83
+34-->[androidx.test:runner:1.4.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/44dbe26ec547516eb25cd9fe65af3c6f/runner-1.4.0/AndroidManifest.xml:27:18-80
+35
+36        <intent>
+36-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:13:9-15:18
+37            <action android:name="android.media.action.IMAGE_CAPTURE" />
+37-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:14:13-73
+37-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:14:21-70
+38        </intent>
+39        <intent>
+39-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:18:9-20:18
+40            <action android:name="android.speech.RecognitionService" />
+40-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:19:13-72
+40-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:19:21-69
+41        </intent>
+42    </queries>
+43
+44    <uses-permission android:name="android.permission.RECORD_AUDIO" /> <!-- Mandatory permissions -->
+44-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:23:5-25:30
+44-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:24:9-55
+45    <uses-permission android:name="android.permission.VIBRATE" />
+45-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:28:5-30:30
+45-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:29:9-50
+46    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+46-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:5-77
+46-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:22-74
+47    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+47-->[com.android.installreferrer:installreferrer:2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/49c87da1639c68767eb6ded9c37d9f34/jetified-installreferrer-2.2/AndroidManifest.xml:9:5-110
+47-->[com.android.installreferrer:installreferrer:2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/49c87da1639c68767eb6ded9c37d9f34/jetified-installreferrer-2.2/AndroidManifest.xml:9:22-107
+48
+49    <uses-feature
+49-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2ebd500570edf12be185674fc2748289/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+50        android:glEsVersion="0x00020000"
+50-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2ebd500570edf12be185674fc2748289/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+51        android:required="true" />
+51-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2ebd500570edf12be185674fc2748289/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+52
+53    <application
+53-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:31:5-314:19
+54        android:name="com.khiladiadda.in.KhiladiAddaApp"
+54-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:32:9-39
+55        android:allowBackup="true"
+55-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:33:9-35
+56        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+56-->[androidx.core:core:1.5.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1b55f5af746feb1d326cec6322161a23/core-1.5.0/AndroidManifest.xml:24:18-86
+57        android:debuggable="true"
+58        android:fullBackupContent="@xml/appsflyer_backup_rules"
+58-->[com.appsflyer:af-android-sdk:6.9.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1bc4452cbe001722f01b3e05aac15e00/jetified-af-android-sdk-6.9.0/AndroidManifest.xml:15:18-73
+59        android:hardwareAccelerated="true"
+59-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:34:9-43
+60        android:icon="@drawable/fanbattle_logo"
+60-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:35:9-48
+61        android:label="@string/app_name"
+61-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:36:9-41
+62        android:roundIcon="@drawable/fanbattle_logo"
+62-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:37:9-53
+63        android:supportsRtl="true"
+63-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:38:9-35
+64        android:testOnly="true"
+65        android:theme="@style/AppTheme" >
+65-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:39:9-40
+66        <activity
+66-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:44:9-53:20
+67            android:name="com.khiladiadda.in.splash.SplashActivity"
+67-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:45:13-50
+68            android:exported="true"
+68-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:46:13-36
+69            android:screenOrientation="portrait" >
+69-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:47:13-49
+70            <intent-filter>
+70-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:48:13-52:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:49:17-69
+71-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:49:25-66
+72                <action android:name="android.intent.action.VIEW" />
+72-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:50:17-69
+72-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:50:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:51:17-77
+74-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:51:27-74
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:55:9-61:57
+78            android:name="com.khiladiadda.in.utility.FavouriteActivity"
+78-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:56:13-54
+79            android:configChanges="orientation"
+79-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:57:13-48
+80            android:excludeFromRecents="true"
+80-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:59:13-46
+81            android:screenOrientation="portrait"
+81-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:60:13-49
+82            android:theme="@style/Theme.UserDialog"
+82-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:58:13-52
+83            android:windowSoftInputMode="stateHidden" />
+83-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:61:13-54
+84        <activity
+84-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:62:9-65:57
+85            android:name="com.khiladiadda.in.wallet.WebPaymentActivity"
+85-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:63:13-54
+86            android:screenOrientation="portrait"
+86-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:64:13-49
+87            android:windowSoftInputMode="stateHidden" />
+87-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:65:13-54
+88        <activity
+88-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:66:9-69:57
+89            android:name="com.khiladiadda.in.scratchcard.ScratchCardActivity"
+89-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:67:13-60
+90            android:screenOrientation="portrait"
+90-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:68:13-49
+91            android:windowSoftInputMode="stateHidden" />
+91-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:69:13-54
+92        <activity
+92-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:70:9-73:57
+93            android:name="com.khiladiadda.in.registration.RegistrationActivity"
+93-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:71:13-62
+94            android:screenOrientation="portrait"
+94-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:72:13-49
+95            android:windowSoftInputMode="stateHidden" />
+95-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:73:13-54
+96        <activity
+96-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:74:9-77:57
+97            android:name="com.khiladiadda.in.main.MainActivity"
+97-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:75:13-46
+98            android:screenOrientation="portrait"
+98-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:76:13-49
+99            android:windowSoftInputMode="stateHidden" />
+99-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:77:13-54
+100        <activity
+100-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:78:9-81:57
+101            android:name="com.khiladiadda.in.login.LoginActivity"
+101-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:79:13-48
+102            android:screenOrientation="portrait"
+102-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:80:13-49
+103            android:windowSoftInputMode="stateHidden" />
+103-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:81:13-54
+104        <activity
+104-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:82:9-85:57
+105            android:name="com.khiladiadda.in.otp.OtpActivity"
+105-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:83:13-44
+106            android:screenOrientation="portrait"
+106-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:84:13-49
+107            android:windowSoftInputMode="stateHidden" />
+107-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:85:13-54
+108        <activity
+108-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:86:9-89:57
+109            android:name="com.khiladiadda.in.profile.ProfileActivity"
+109-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:87:13-52
+110            android:screenOrientation="portrait"
+110-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:88:13-49
+111            android:windowSoftInputMode="stateHidden" />
+111-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:89:13-54
+112        <activity
+112-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:90:9-93:57
+113            android:name="com.khiladiadda.in.terms.TermsActivity"
+113-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:91:13-48
+114            android:screenOrientation="portrait"
+114-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:92:13-49
+115            android:windowSoftInputMode="stateHidden" />
+115-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:93:13-54
+116        <activity
+116-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:95:9-98:57
+117            android:name="com.khiladiadda.in.profile.StatActivity"
+117-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:96:13-49
+118            android:screenOrientation="portrait"
+118-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:97:13-49
+119            android:windowSoftInputMode="stateHidden" />
+119-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:98:13-54
+120        <activity
+120-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:99:9-102:57
+121            android:name="com.khiladiadda.in.setting.SettingActivity"
+121-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:100:13-52
+122            android:screenOrientation="portrait"
+122-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:101:13-49
+123            android:windowSoftInputMode="stateHidden" />
+123-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:102:13-54
+124        <activity
+124-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:103:9-106:57
+125            android:name="com.khiladiadda.in.fcm.NotificationActivity"
+125-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:104:13-53
+126            android:screenOrientation="portrait"
+126-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:105:13-49
+127            android:windowSoftInputMode="stateHidden" />
+127-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:106:13-54
+128        <activity
+128-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:107:9-110:57
+129            android:name="com.khiladiadda.in.wallet.WalletActivity"
+129-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:108:13-50
+130            android:screenOrientation="portrait"
+130-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:109:13-49
+131            android:windowSoftInputMode="stateHidden" />
+131-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:110:13-54
+132        <activity
+132-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:111:9-114:57
+133            android:name="com.khiladiadda.in.leaderboard.NewLeaderboardActivity"
+133-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:112:13-63
+134            android:screenOrientation="portrait"
+134-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:113:13-49
+135            android:windowSoftInputMode="stateHidden" />
+135-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:114:13-54
+136        <activity
+136-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:115:9-118:57
+137            android:name="com.khiladiadda.in.referhistory.ReferActivity"
+137-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:116:13-55
+138            android:screenOrientation="portrait"
+138-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:117:13-49
+139            android:windowSoftInputMode="stateHidden" />
+139-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:118:13-54
+140        <activity
+140-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:119:9-122:57
+141            android:name="com.khiladiadda.in.referhistory.InviteActivity"
+141-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:120:13-56
+142            android:screenOrientation="portrait"
+142-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:121:13-49
+143            android:windowSoftInputMode="stateHidden" />
+143-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:122:13-54
+144        <activity
+144-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:123:9-126:57
+145            android:name="com.khiladiadda.in.transaction.TransactionActivity"
+145-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:124:13-60
+146            android:screenOrientation="portrait"
+146-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:125:13-49
+147            android:windowSoftInputMode="stateHidden" />
+147-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:126:13-54
+148        <activity
+148-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:127:9-130:57
+149            android:name="com.khiladiadda.in.withdrawcoins.WithdrawActivity"
+149-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:128:13-59
+150            android:screenOrientation="portrait"
+150-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:129:13-49
+151            android:windowSoftInputMode="stateHidden" />
+151-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:130:13-54
+152        <activity
+152-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:131:9-135:57
+153            android:name="com.khiladiadda.in.withdrawcoins.NewWithdrawActivity"
+153-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:132:13-62
+154            android:exported="false"
+154-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:133:13-37
+155            android:screenOrientation="portrait"
+155-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:134:13-49
+156            android:windowSoftInputMode="stateHidden" />
+156-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:135:13-54
+157        <activity
+157-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:136:9-139:57
+158            android:name="com.khiladiadda.in.profile.update.UpdateProfileActivity"
+158-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:137:13-65
+159            android:screenOrientation="portrait"
+159-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:138:13-49
+160            android:windowSoftInputMode="stateHidden" />
+160-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:139:13-54
+161        <activity
+161-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:140:9-143:57
+162            android:name="com.khiladiadda.in.profile.update.PanActivity"
+162-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:141:13-55
+163            android:screenOrientation="portrait"
+163-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:142:13-49
+164            android:windowSoftInputMode="stateHidden" />
+164-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:143:13-54
+165        <activity
+165-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:144:9-147:57
+166            android:name="com.khiladiadda.in.help.HelpActivity"
+166-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:145:13-46
+167            android:screenOrientation="portrait"
+167-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:146:13-49
+168            android:windowSoftInputMode="stateHidden" />
+168-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:147:13-54
+169        <activity
+169-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:148:9-151:57
+170            android:name="com.khiladiadda.in.wallet.AddWalletActivity"
+170-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:149:13-53
+171            android:screenOrientation="portrait"
+171-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:150:13-49
+172            android:windowSoftInputMode="stateHidden" />
+172-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:151:13-54
+173        <activity
+173-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:152:9-155:57
+174            android:name="com.khiladiadda.in.fcm.NotificationHelpActivity"
+174-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:153:13-57
+175            android:screenOrientation="portrait"
+175-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:154:13-49
+176            android:windowSoftInputMode="stateHidden" />
+176-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:155:13-54
+177        <activity
+177-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:156:9-159:57
+178            android:name="com.khiladiadda.in.socialverify.SocialVerifyActivity"
+178-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:157:13-62
+179            android:screenOrientation="portrait"
+179-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:158:13-49
+180            android:windowSoftInputMode="stateHidden" />
+180-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:159:13-54
+181        <activity android:name="com.khiladiadda.in.utility.ImageActivity" />
+181-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:160:9-59
+181-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:160:19-56
+182        <activity
+182-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:161:9-164:57
+183            android:name="com.khiladiadda.in.help.HelpDetailsActivity"
+183-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:162:13-53
+184            android:screenOrientation="portrait"
+184-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:163:13-49
+185            android:windowSoftInputMode="stateHidden" />
+185-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:164:13-54
+186        <activity
+186-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:165:9-168:57
+187            android:name="com.khiladiadda.in.referhistory.ReferHelpActivity"
+187-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:166:13-59
+188            android:screenOrientation="portrait"
+188-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:167:13-49
+189            android:windowSoftInputMode="stateHidden" />
+189-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:168:13-54
+190        <activity
+190-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:169:9-172:57
+191            android:name="com.khiladiadda.in.withdrawcoins.ManualWithdrawActivity"
+191-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:170:13-65
+192            android:screenOrientation="portrait"
+192-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:171:13-49
+193            android:windowSoftInputMode="stateHidden" />
+193-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:172:13-54
+194        <activity
+194-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:173:9-176:57
+195            android:name="com.khiladiadda.in.fanbattle.FanBattleActivity"
+195-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:174:13-56
+196            android:screenOrientation="portrait"
+196-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:175:13-49
+197            android:windowSoftInputMode="stateHidden" />
+197-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:176:13-54
+198        <activity
+198-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:177:9-180:57
+199            android:name="com.khiladiadda.in.battle.BattleGroupActivity"
+199-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:178:13-55
+200            android:screenOrientation="portrait"
+200-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:179:13-49
+201            android:windowSoftInputMode="stateHidden" />
+201-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:180:13-54
+202        <activity
+202-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:181:9-184:57
+203            android:name="com.khiladiadda.in.battle.BattleActivity"
+203-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:182:13-50
+204            android:screenOrientation="portrait"
+204-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:183:13-49
+205            android:windowSoftInputMode="stateHidden" />
+205-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:184:13-54
+206        <activity
+206-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:185:9-188:57
+207            android:name="com.khiladiadda.in.fanleague.MyFanLeagueActivity"
+207-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:186:13-58
+208            android:screenOrientation="portrait"
+208-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:187:13-49
+209            android:windowSoftInputMode="stateHidden" />
+209-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:188:13-54
+210        <activity
+210-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:189:9-192:57
+211            android:name="com.khiladiadda.in.battle.PlayerPointsActivity"
+211-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:190:13-56
+212            android:screenOrientation="portrait"
+212-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:191:13-49
+213            android:windowSoftInputMode="stateHidden" />
+213-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:192:13-54
+214        <activity
+214-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:193:9-196:57
+215            android:name="com.khiladiadda.in.battle.BattlePointsActivity"
+215-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:194:13-56
+216            android:screenOrientation="portrait"
+216-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:195:13-49
+217            android:windowSoftInputMode="stateHidden" />
+217-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:196:13-54
+218        <activity
+218-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:197:9-200:57
+219            android:name="com.khiladiadda.in.battle.BattleHelpActivity"
+219-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:198:13-54
+220            android:screenOrientation="portrait"
+220-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:199:13-49
+221            android:windowSoftInputMode="stateHidden" />
+221-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:200:13-54
+222        <activity
+222-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:201:9-204:57
+223            android:name="com.khiladiadda.in.transaction.PaymentHistoryActivity"
+223-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:202:13-63
+224            android:screenOrientation="portrait"
+224-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:203:13-49
+225            android:windowSoftInputMode="stateHidden" />
+225-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:204:13-54
+226        <activity
+226-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:205:9-208:57
+227            android:name="com.khiladiadda.in.battle.SelectGroupActivity"
+227-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:206:13-55
+228            android:screenOrientation="portrait"
+228-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:207:13-49
+229            android:windowSoftInputMode="stateHidden" />
+229-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:208:13-54
+230        <activity
+230-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:209:9-212:57
+231            android:name="com.khiladiadda.in.utility.AllHelpActivity"
+231-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:210:13-52
+232            android:screenOrientation="portrait"
+232-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:211:13-49
+233            android:windowSoftInputMode="stateHidden" />
+233-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:212:13-54
+234        <activity
+234-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:213:9-216:57
+235            android:name="com.khiladiadda.in.profile.update.AadharActivity"
+235-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:214:13-58
+236            android:screenOrientation="portrait"
+236-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:215:13-49
+237            android:windowSoftInputMode="stateHidden" />
+237-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:216:13-54
+238        <activity
+238-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:217:9-220:57
+239            android:name="com.khiladiadda.in.headtohead.createbattle.CreateTeamActivity"
+239-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:218:13-71
+240            android:screenOrientation="portrait"
+240-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:219:13-49
+241            android:windowSoftInputMode="stateHidden" />
+241-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:220:13-54
+242        <activity
+242-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:221:9-225:57
+243            android:name="com.khiladiadda.in.headtohead.HTHBattlesActivity"
+243-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:222:13-58
+244            android:launchMode="singleTask"
+244-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:223:13-44
+245            android:screenOrientation="portrait"
+245-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:224:13-49
+246            android:windowSoftInputMode="stateHidden" />
+246-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:225:13-54
+247        <activity
+247-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:226:9-230:57
+248            android:name="com.khiladiadda.in.headtohead.AllMatchesHTHActivity"
+248-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:227:13-61
+249            android:launchMode="singleTask"
+249-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:228:13-44
+250            android:screenOrientation="portrait"
+250-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:229:13-49
+251            android:windowSoftInputMode="stateHidden" />
+251-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:230:13-54
+252        <activity
+252-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:231:9-233:40
+253            android:name="com.khiladiadda.in.headtohead.PlayerStatus"
+253-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:232:13-52
+254            android:exported="false" />
+254-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:233:13-37
+255        <activity
+255-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:234:9-237:52
+256            android:name="com.khiladiadda.in.headtohead.BattlesUpcomingActivity"
+256-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:235:13-63
+257            android:exported="false"
+257-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:236:13-37
+258            android:screenOrientation="portrait" />
+258-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:237:13-49
+259        <activity
+259-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:238:9-242:52
+260            android:name="com.khiladiadda.in.headtohead.BattlesScoreActivity"
+260-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:239:13-60
+261            android:exported="false"
+261-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:240:13-37
+262            android:launchMode="singleTask"
+262-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:241:13-44
+263            android:screenOrientation="portrait" />
+263-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:242:13-49
+264        <activity
+264-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:243:9-247:52
+265            android:name="com.khiladiadda.in.headtohead.SelectedPlayers"
+265-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:244:13-55
+266            android:exported="false"
+266-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:245:13-37
+267            android:launchMode="singleTask"
+267-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:246:13-44
+268            android:screenOrientation="portrait" />
+268-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:247:13-49
+269        <activity
+269-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:248:9-252:52
+270            android:name="com.khiladiadda.in.headtohead.MyFanLeagueActivityHTH"
+270-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:249:13-62
+271            android:exported="false"
+271-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:250:13-37
+272            android:launchMode="singleTask"
+272-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:251:13-44
+273            android:screenOrientation="portrait" />
+273-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:252:13-49
+274        <activity
+274-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:253:9-256:15
+275            android:name="com.khiladiadda.in.participant.ParticipantActivity"
+275-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:253:19-66
+276            android:exported="false"
+276-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:254:13-37
+277            android:screenOrientation="portrait" />
+277-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:255:13-49
+278        <activity
+278-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:257:9-268:20
+279            android:name="com.facebook.CustomTabActivity"
+279-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:258:13-58
+280            android:exported="true" >
+280-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:259:13-36
+281            <intent-filter>
+281-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:260:13-267:29
+282                <action android:name="android.intent.action.VIEW" />
+282-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:50:17-69
+282-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:50:25-66
+283
+284                <category android:name="android.intent.category.DEFAULT" />
+284-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:263:17-76
+284-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:263:27-73
+285                <category android:name="android.intent.category.BROWSABLE" />
+285-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:264:17-78
+285-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:264:27-75
+286
+287                <data android:scheme="@string/fb_login_protocol_scheme" />
+287-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:266:17-75
+287-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:266:23-72
+288            </intent-filter>
+289            <intent-filter>
+289-->[com.facebook.android:facebook-common:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f1f000629599884d26a12ff33f652618/jetified-facebook-common-8.2.0/AndroidManifest.xml:39:13-48:29
+290                <action android:name="android.intent.action.VIEW" />
+290-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:50:17-69
+290-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:50:25-66
+291
+292                <category android:name="android.intent.category.DEFAULT" />
+292-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:263:17-76
+292-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:263:27-73
+293                <category android:name="android.intent.category.BROWSABLE" />
+293-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:264:17-78
+293-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:264:27-75
+294
+295                <data
+295-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:266:17-75
+296                    android:host="cct.com.khiladiadda.in"
+297                    android:scheme="fbconnect" />
+297-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:266:23-72
+298            </intent-filter>
+299        </activity>
+300
+301        <meta-data
+301-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:269:9-271:55
+302            android:name="com.facebook.sdk.ApplicationId"
+302-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:270:13-58
+303            android:value="@string/facebook_app_id" />
+303-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:271:13-52
+304
+305        <activity
+305-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:272:9-274:99
+306            android:name="com.facebook.FacebookActivity"
+306-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:273:13-57
+307            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+307-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:274:13-96
+308            android:theme="@style/com_facebook_activity_theme" />
+308-->[com.facebook.android:facebook-common:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f1f000629599884d26a12ff33f652618/jetified-facebook-common-8.2.0/AndroidManifest.xml:33:13-63
+309
+310        <meta-data
+310-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:275:9-277:69
+311            android:name="com.google.android.gms.version"
+311-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:276:13-58
+312            android:value="@integer/google_play_services_version" />
+312-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:277:13-66
+313        <meta-data
+313-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:278:9-280:54
+314            android:name="com.google.firebase.messaging.default_notification_icon"
+314-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:279:13-83
+315            android:resource="@mipmap/ic_launcher" /> <!-- tools:replace="android:resource" -->
+315-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:280:13-51
+316        <!--
+317 Set custom default icon. This is used when no icon is set for incoming notification messages.
+318             See README(https://goo.gl/l4GJaQ) for more.
+319        -->
+320        <meta-data
+320-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:285:9-287:53
+321            android:name="com.google.firebase.messaging.default_notification_color"
+321-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:286:13-84
+322            android:resource="@color/colorAccent" /> <!-- tools:replace="android:resource" -->
+322-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:287:13-50
+323        <!--
+324 Set color used with incoming notification messages. This is used when no color is set for the incoming
+325             notification message. See README(https://goo.gl/6BKBk7) for more.
+326        -->
+327        <meta-data
+327-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:292:9-294:71
+328            android:name="com.google.firebase.messaging.default_notification_channel_id"
+328-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:293:13-89
+329            android:value="@string/default_notification_channel_id" />
+329-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:294:13-68
+330        <meta-data
+330-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:295:9-297:57
+331            android:name="preloaded_fonts"
+331-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:296:13-43
+332            android:resource="@array/preloaded_fonts" />
+332-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:297:13-54
+333
+334        <service
+334-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:298:9-304:19
+335            android:name="com.khiladiadda.in.fcm.MyFirebaseMessagingService"
+335-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:299:13-59
+336            android:exported="false" >
+336-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:300:13-37
+337            <intent-filter>
+337-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:301:13-303:29
+338                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+338-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:302:17-78
+338-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:302:25-75
+339            </intent-filter>
+340        </service>
+341
+342        <provider
+342-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:305:9-313:20
+343            android:name="androidx.core.content.FileProvider"
+343-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:306:13-62
+344            android:authorities="com.khiladiadda.in.user.network.providers"
+344-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:307:13-76
+345            android:exported="false"
+345-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:308:13-37
+346            android:grantUriPermissions="true" >
+346-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:309:13-47
+347            <meta-data
+347-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:310:13-312:62
+348                android:name="android.support.FILE_PROVIDER_PATHS"
+348-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:311:17-67
+349                android:resource="@xml/provider_paths_app" />
+349-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:312:17-59
+350        </provider>
+351
+352        <activity android:name="com.facebook.CustomTabMainActivity" />
+352-->[com.facebook.android:facebook-common:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f1f000629599884d26a12ff33f652618/jetified-facebook-common-8.2.0/AndroidManifest.xml:34:9-71
+352-->[com.facebook.android:facebook-common:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f1f000629599884d26a12ff33f652618/jetified-facebook-common-8.2.0/AndroidManifest.xml:34:19-68
+353
+354        <provider
+354-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:27:9-36:20
+355            android:name="com.applozic.mobicomkit.uiwidgets.KmFileProvider"
+355-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:28:13-76
+356            android:authorities="com.khiladiadda.in.provider"
+356-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:29:13-60
+357            android:exported="false"
+357-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:30:13-37
+358            android:grantUriPermissions="true" >
+358-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:31:13-47
+359            <meta-data
+359-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:310:13-312:62
+360                android:name="android.support.FILE_PROVIDER_PATHS"
+360-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:311:17-67
+361                android:resource="@xml/km_provider_paths" />
+361-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:312:17-59
+362        </provider>
+363
+364        <service
+364-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:38:9-45:19
+365            android:name="com.applozic.mobicomkit.uiwidgets.KmFirebaseMessagingService"
+365-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:39:13-88
+366            android:exported="true"
+366-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:40:13-36
+367            android:stopWithTask="false" >
+367-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:41:13-41
+368            <intent-filter>
+368-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:301:13-303:29
+369                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+369-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:302:17-78
+369-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:302:25-75
+370            </intent-filter>
+371        </service>
+372
+373        <activity
+373-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:47:9-53:34
+374            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
+374-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:48:13-104
+375            android:configChanges="keyboardHidden|screenSize|locale|smallestScreenSize|screenLayout|orientation"
+375-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:49:13-113
+376            android:label="@string/app_name"
+376-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:50:13-45
+377            android:launchMode="singleTask"
+377-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:51:13-44
+378            android:theme="@style/ApplozicTheme" />
+378-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:52:13-49
+379        <activity
+379-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:54:9-59:58
+380            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.MobicomLocationActivity"
+380-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:55:13-107
+381            android:configChanges="keyboardHidden|screenSize|smallestScreenSize|screenLayout|orientation"
+381-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:56:13-106
+382            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
+382-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:57:13-118
+383            android:theme="@style/ApplozicTheme"
+383-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:58:13-49
+384            android:windowSoftInputMode="adjustResize" />
+384-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:59:13-55
+385        <activity
+385-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:60:9-72:20
+386            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.FullScreenImageActivity"
+386-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:61:13-107
+387            android:configChanges="keyboardHidden|orientation|screenSize"
+387-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:62:13-74
+388            android:label="Image"
+388-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:63:13-34
+389            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
+389-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:64:13-118
+390            android:theme="@style/Applozic_FullScreen_Theme" >
+390-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:65:13-61
+391
+392            <!-- Parent activity meta-data to support API level 7+ -->
+393            <meta-data
+393-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:69:13-71:112
+394                android:name="android.support.PARENT_ACTIVITY"
+394-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:70:17-63
+395                android:value="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity" />
+395-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:71:17-109
+396        </activity>
+397        <activity
+397-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:73:9-80:34
+398            android:name="com.applozic.mobicomkit.uiwidgets.conversation.richmessaging.webview.KmWebViewActivity"
+398-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:74:13-114
+399            android:configChanges="keyboardHidden|orientation|screenSize"
+399-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:75:13-74
+400            android:label="Image"
+400-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:76:13-34
+401            android:launchMode="singleTop"
+401-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:77:13-43
+402            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
+402-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:78:13-118
+403            android:theme="@style/ApplozicTheme" />
+403-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:79:13-49
+404        <activity
+404-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:81:9-85:34
+405            android:name="com.applozic.mobicomkit.uiwidgets.kommunicate.activities.LeadCollectionActivity"
+405-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:82:13-107
+406            android:configChanges="keyboardHidden|orientation|screenSize"
+406-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:83:13-74
+407            android:theme="@style/ApplozicTheme" />
+407-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:84:13-49
+408        <activity
+408-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:86:9-96:20
+409            android:name="com.applozic.mobicomkit.uiwidgets.conversation.activity.MobiComAttachmentSelectorActivity"
+409-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:87:13-117
+410            android:configChanges="keyboardHidden|screenSize|smallestScreenSize|screenLayout|orientation"
+410-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:88:13-106
+411            android:launchMode="singleTop"
+411-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:89:13-43
+412            android:parentActivityName="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity"
+412-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:90:13-118
+413            android:theme="@style/ApplozicTheme"
+413-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:91:13-49
+414            android:windowSoftInputMode="stateHidden|adjustResize" >
+414-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:92:13-67
+415            <meta-data
+415-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:69:13-71:112
+416                android:name="android.support.PARENT_ACTIVITY"
+416-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:70:17-63
+417                android:value="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity" />
+417-->[io.kommunicate.sdk:kommunicateui:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml:71:17-109
+418        </activity>
+419
+420        <meta-data
+420-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:51:9-54:34
+421            android:name="main_folder_name"
+421-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:52:13-44
+422            android:value="Kommunicate" />
+422-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:53:13-40
+423
+424        <service
+424-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:56:9-60:34
+425            android:name="com.applozic.mobicomkit.api.conversation.MessageIntentService"
+425-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:57:13-89
+426            android:exported="false"
+426-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:58:13-37
+427            android:permission="android.permission.BIND_JOB_SERVICE" />
+427-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:59:13-69
+428        <service
+428-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:61:9-65:34
+429            android:name="com.applozic.mobicomkit.api.conversation.ApplozicIntentService"
+429-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:62:13-90
+430            android:exported="false"
+430-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:63:13-37
+431            android:permission="android.permission.BIND_JOB_SERVICE" />
+431-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:64:13-69
+432        <service
+432-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:66:9-70:34
+433            android:name="com.applozic.mobicomkit.api.conversation.ApplozicMqttIntentService"
+433-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:67:13-94
+434            android:exported="false"
+434-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:68:13-37
+435            android:permission="android.permission.BIND_JOB_SERVICE" />
+435-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:69:13-69
+436        <service
+436-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:71:9-75:34
+437            android:name="com.applozic.mobicomkit.api.people.UserIntentService"
+437-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:72:13-80
+438            android:exported="false"
+438-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:73:13-37
+439            android:permission="android.permission.BIND_JOB_SERVICE" />
+439-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:74:13-69
+440        <service
+440-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:76:9-80:34
+441            android:name="com.applozic.mobicomkit.api.conversation.ConversationIntentService"
+441-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:77:13-94
+442            android:exported="false"
+442-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:78:13-37
+443            android:permission="android.permission.BIND_JOB_SERVICE" />
+443-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:79:13-69
+444
+445        <receiver
+445-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:82:9-90:20
+446            android:name="com.applozic.mobicomkit.broadcast.TimeChangeBroadcastReceiver"
+446-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:83:13-89
+447            android:exported="true" >
+447-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:84:13-36
+448            <intent-filter>
+448-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:86:13-89:29
+449                <action android:name="android.intent.action.TIME_SET" />
+449-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:87:17-73
+449-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:87:25-70
+450                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+450-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:88:17-81
+450-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:88:25-78
+451            </intent-filter>
+452        </receiver>
+453        <receiver
+453-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:91:9-100:20
+454            android:name="com.applozic.mobicomkit.broadcast.ConnectivityReceiver"
+454-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:92:13-82
+455            android:enabled="true"
+455-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:93:13-35
+456            android:exported="true" >
+456-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:94:13-36
+457            <intent-filter>
+457-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:96:13-99:29
+458                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+458-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:97:17-82
+458-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:97:25-79
+459                <action android:name="android.intent.action.BOOT_COMPLETED" />
+459-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:98:17-79
+459-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:98:25-76
+460            </intent-filter>
+461        </receiver>
+462
+463        <meta-data
+463-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:102:9-104:108
+464            android:name="activity.open.on.notification"
+464-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:103:13-57
+465            android:value="com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity" />
+465-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:104:13-105
+466        <meta-data
+466-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:105:9-107:48
+467            android:name="com.package.name"
+467-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:106:13-44
+468            android:value="com.khiladiadda.in" />
+468-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:107:13-45
+469        <meta-data
+469-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:108:9-110:59
+470            android:name="com.applozic.server.url"
+470-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:109:13-51
+471            android:value="https://chat.kommunicate.io" />
+471-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:110:13-56
+472        <meta-data
+472-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:111:9-113:62
+473            android:name="com.applozic.mqtt.server.url"
+473-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:112:13-56
+474            android:value="tcp://socket.applozic.com:8080" />
+474-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:113:13-59
+475        <meta-data
+475-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:114:9-116:42
+476            android:name="com.applozic.mobicomkit.notification.tone"
+476-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:115:13-69
+477            android:value="eventually" />
+477-->[io.kommunicate.sdk:kommunicate:2.4.6] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2d9298e797acfa4bc21dd04abc61794d/jetified-kommunicate-2.4.6/AndroidManifest.xml:116:13-39
+478
+479        <activity
+479-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:23:9-27:75
+480            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+480-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:24:13-93
+481            android:excludeFromRecents="true"
+481-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:25:13-46
+482            android:exported="false"
+482-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:26:13-37
+483            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+483-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:27:13-72
+484        <!--
+485            Service handling Google Sign-In user revocation. For apps that do not integrate with
+486            Google Sign-In, this service will never be started.
+487        -->
+488        <service
+488-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:33:9-37:51
+489            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+489-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:34:13-89
+490            android:exported="true"
+490-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:35:13-36
+491            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+491-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:36:13-107
+492            android:visibleToInstantApps="true" />
+492-->[com.google.android.gms:play-services-auth:20.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/78adc93ad2c8a7677f414c7ff776f84b/jetified-play-services-auth-20.1.0/AndroidManifest.xml:37:13-48
+493
+494        <receiver
+494-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:31:9-38:20
+495            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+495-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:32:13-78
+496            android:exported="true"
+496-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:33:13-36
+497            android:permission="com.google.android.c2dm.permission.SEND" >
+497-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:34:13-73
+498            <intent-filter>
+498-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:35:13-37:29
+499                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+499-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:36:17-81
+499-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:36:25-78
+500            </intent-filter>
+501        </receiver>
+502        <!--
+503             FirebaseMessagingService performs security checks at runtime,
+504             but set to not exported to explicitly avoid allowing another app to call it.
+505        -->
+506        <service
+506-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:44:9-51:19
+507            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+507-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:45:13-82
+508            android:directBootAware="true"
+508-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:46:13-43
+509            android:exported="false" >
+509-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:47:13-37
+510            <intent-filter android:priority="-500" >
+510-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:301:13-303:29
+511                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+511-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:302:17-78
+511-->/Users/dheeraj/Documents/Update FanBattle/FanBattle_Android-main/app/src/main/AndroidManifest.xml:302:25-75
+512            </intent-filter>
+513        </service>
+514        <service
+514-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:52:9-58:19
+515            android:name="com.google.firebase.components.ComponentDiscoveryService"
+515-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:53:13-84
+516            android:directBootAware="true"
+516-->[com.google.firebase:firebase-common:20.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/6587422f061446ae8c202f81f6250e5c/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
+517            android:exported="false" >
+517-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:54:13-37
+518            <meta-data
+518-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:55:13-57:85
+519                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+519-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:56:17-119
+520                android:value="com.google.firebase.components.ComponentRegistrar" />
+520-->[com.google.firebase:firebase-messaging:23.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/73557cf8f5384f3259687ef3855ec282/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:57:17-82
+521            <meta-data
+521-->[com.google.firebase:firebase-crashlytics:18.3.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/a2b8b35317fdc5810bebde0cabdfaa9d/jetified-firebase-crashlytics-18.3.1/AndroidManifest.xml:17:13-19:85
+522                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+522-->[com.google.firebase:firebase-crashlytics:18.3.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/a2b8b35317fdc5810bebde0cabdfaa9d/jetified-firebase-crashlytics-18.3.1/AndroidManifest.xml:18:17-115
+523                android:value="com.google.firebase.components.ComponentRegistrar" />
+523-->[com.google.firebase:firebase-crashlytics:18.3.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/a2b8b35317fdc5810bebde0cabdfaa9d/jetified-firebase-crashlytics-18.3.1/AndroidManifest.xml:19:17-82
+524            <meta-data
+524-->[com.google.android.gms:play-services-measurement-api:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/8f122eb463833234c133c4ff0a32a4b6/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:31:13-33:85
+525                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+525-->[com.google.android.gms:play-services-measurement-api:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/8f122eb463833234c133c4ff0a32a4b6/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:32:17-139
+526                android:value="com.google.firebase.components.ComponentRegistrar" />
+526-->[com.google.android.gms:play-services-measurement-api:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/8f122eb463833234c133c4ff0a32a4b6/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:33:17-82
+527            <meta-data
+527-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b8dd7d78a6639125f19c3ebc0b64efdd/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+528                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+528-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b8dd7d78a6639125f19c3ebc0b64efdd/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+529                android:value="com.google.firebase.components.ComponentRegistrar" />
+529-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b8dd7d78a6639125f19c3ebc0b64efdd/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+530            <meta-data
+530-->[com.google.firebase:firebase-installations:17.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5e08b822f7234e7e595631466996786a/jetified-firebase-installations-17.1.0/AndroidManifest.xml:17:13-19:85
+531                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+531-->[com.google.firebase:firebase-installations:17.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5e08b822f7234e7e595631466996786a/jetified-firebase-installations-17.1.0/AndroidManifest.xml:18:17-127
+532                android:value="com.google.firebase.components.ComponentRegistrar" />
+532-->[com.google.firebase:firebase-installations:17.1.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5e08b822f7234e7e595631466996786a/jetified-firebase-installations-17.1.0/AndroidManifest.xml:19:17-82
+533        </service>
+534
+535        <activity
+535-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:14:9-17:47
+536            android:name="com.paytm.pgsdk.PaytmPGActivity"
+536-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:15:13-59
+537            android:screenOrientation="portrait"
+537-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:16:13-49
+538            android:theme="@style/AppTheme" />
+538-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:17:13-44
+539
+540        <service
+540-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:19:9-21:40
+541            android:name="com.paytm.pgsdk.IntentServicePostNotification"
+541-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:20:13-73
+542            android:exported="false" />
+542-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:21:13-37
+543        <service
+543-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:22:9-24:40
+544            android:name="com.paytm.pgsdk.IntentServicePreNotification"
+544-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:23:13-72
+545            android:exported="false" />
+545-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:24:13-37
+546        <service
+546-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:25:9-28:39
+547            android:name="com.paytm.pgsdk.easypay.utils.EasypayLoaderService"
+547-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:26:13-78
+548            android:enabled="true"
+548-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:27:13-35
+549            android:exported="true" />
+549-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:28:13-36
+550        <service
+550-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:29:9-32:39
+551            android:name="com.paytm.pgsdk.easypay.utils.AnalyticsService"
+551-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:30:13-74
+552            android:enabled="true"
+552-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:31:13-35
+553            android:exported="true" />
+553-->[com.paytm:pgplussdk:1.4.4] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/1d700a91b31b5430dedda1efd68df7a4/jetified-pgplussdk-1.4.4/AndroidManifest.xml:32:13-36
+554
+555        <activity
+555-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:20:9-22:72
+556            android:name="com.gocashfree.cashfreesdk.CFPaymentActivity"
+556-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:21:13-72
+557            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+557-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:22:13-69
+558        <activity android:name="com.gocashfree.cashfreesdk.CFUPIPaymentActivity" />
+558-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:23:9-84
+558-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:23:19-81
+559        <activity
+559-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:24:9-27:20
+560            android:name="com.gocashfree.cashfreesdk.AmazonPayActivity"
+560-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:25:13-72
+561            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+561-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:26:13-69
+562        </activity>
+563        <activity
+563-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:28:9-30:72
+564            android:name="com.gocashfree.cashfreesdk.GooglePayActivity"
+564-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:29:13-72
+565            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+565-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:30:13-69
+566        <activity
+566-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:31:9-33:72
+567            android:name="com.gocashfree.cashfreesdk.CFPhonePayActivity"
+567-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:32:13-73
+568            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+568-->[com.cashfree.pg:android-support-sdk:1.4.2.2] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/b1208a4f3fa383d0e3c20d9670a95861/jetified-android-support-sdk-1.4.2.2/AndroidManifest.xml:33:13-69
+569        <activity
+569-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:20:9-22:72
+570            android:name="com.cashfree.pg.ui.web_checkout.CFPaymentActivity"
+570-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:21:13-77
+571            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+571-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:22:13-69
+572        <activity
+572-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:23:9-25:66
+573            android:name="com.cashfree.pg.ui.upi.CFUPIPaymentActivity"
+573-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:24:13-71
+574            android:theme="@style/Theme.AppCompat.Translucent" />
+574-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:25:13-63
+575        <activity
+575-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:26:9-28:66
+576            android:name="com.cashfree.pg.ui.amazonpay.AmazonPayActivity"
+576-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:27:13-74
+577            android:theme="@style/Theme.AppCompat.Translucent" />
+577-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:28:13-63
+578        <activity
+578-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:29:9-31:66
+579            android:name="com.cashfree.pg.ui.gpay.GooglePayActivity"
+579-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:30:13-69
+580            android:theme="@style/Theme.AppCompat.Translucent" />
+580-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:31:13-63
+581        <activity
+581-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:32:9-34:66
+582            android:name="com.cashfree.pg.ui.phonepe.CFPhonePayActivity"
+582-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:33:13-73
+583            android:theme="@style/Theme.AppCompat.Translucent" />
+583-->[com.cashfree.pg:android-sdk:1.5.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/5c88433ac9bb1339094e9482cd853d76/jetified-android-sdk-1.5.1/AndroidManifest.xml:34:13-63
+584        <activity
+584-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:21:9-26:20
+585            android:name="com.easebuzz.payment.kit.PWEBankPageActivity"
+585-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:22:13-72
+586            android:launchMode="singleTop"
+586-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:23:13-43
+587            android:screenOrientation="portrait"
+587-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:24:13-49
+588            android:theme="@style/PWENoABar" >
+588-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:25:13-45
+589        </activity>
+590        <activity
+590-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:27:9-33:60
+591            android:name="com.easebuzz.payment.kit.PWECouponsActivity"
+591-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:28:13-71
+592            android:label="Select Coupons"
+592-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:29:13-43
+593            android:launchMode="singleTop"
+593-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:30:13-43
+594            android:screenOrientation="portrait"
+594-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:31:13-49
+595            android:theme="@style/PWENoABar"
+595-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:32:13-45
+596            android:windowSoftInputMode="stateUnchanged" />
+596-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:33:13-57
+597
+598        <service
+598-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:35:9-38:44
+599            android:name="com.easebuzz.payment.kit.PWETimerService"
+599-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:36:13-68
+600            android:enabled="true"
+600-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:37:13-35
+601            android:stopWithTask="false" />
+601-->[:peb-lib-android-x:] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/f8367dd07646b658804862b1fefbdd32/jetified-peb-lib-android-x/AndroidManifest.xml:38:13-41
+602        <!--
+603         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+604         with the application context. This config is merged in with the host app's manifest,
+605         but there can only be one provider with the same authority activated at any given
+606         point; so if the end user has two or more different apps that use Facebook SDK, only the
+607         first one will be able to use the provider. To work around this problem, we use the
+608         following placeholder in the authority to identify each host application as if it was
+609         a completely different provider.
+610        -->
+611        <provider
+611-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:39:9-42:40
+612            android:name="com.facebook.internal.FacebookInitProvider"
+612-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:40:13-70
+613            android:authorities="com.khiladiadda.in.FacebookInitProvider"
+613-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:41:13-72
+614            android:exported="false" />
+614-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:42:13-37
+615
+616        <receiver
+616-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:44:9-50:20
+617            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+617-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:45:13-86
+618            android:exported="false" >
+618-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:46:13-37
+619            <intent-filter>
+619-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:47:13-49:29
+620                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+620-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:48:17-95
+620-->[com.facebook.android:facebook-core:8.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d34860a349e888f2709a81716c030777/jetified-facebook-core-8.2.0/AndroidManifest.xml:48:25-92
+621            </intent-filter>
+622        </receiver>
+623        <receiver
+623-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:29:9-33:20
+624            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+624-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:30:13-85
+625            android:enabled="true"
+625-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:31:13-35
+626            android:exported="false" >
+626-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:32:13-37
+627        </receiver>
+628
+629        <service
+629-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:35:9-38:40
+630            android:name="com.google.android.gms.measurement.AppMeasurementService"
+630-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:36:13-84
+631            android:enabled="true"
+631-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:37:13-35
+632            android:exported="false" />
+632-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:38:13-37
+633        <service
+633-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:39:9-43:72
+634            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+634-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:40:13-87
+635            android:enabled="true"
+635-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:41:13-35
+636            android:exported="false"
+636-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:42:13-37
+637            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Needs to be explicitly declared on P+ -->
+637-->[com.google.android.gms:play-services-measurement:21.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/d8681ff44436981aaa30c00d86fa42cd/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:43:13-69
+638        <uses-library
+638-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2ebd500570edf12be185674fc2748289/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+639            android:name="org.apache.http.legacy"
+639-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2ebd500570edf12be185674fc2748289/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+640            android:required="false" />
+640-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/2ebd500570edf12be185674fc2748289/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+641
+642        <activity
+642-->[com.google.android.gms:play-services-base:18.0.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/a924a44fa08078e2ccd253df85a8f200/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+643            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+643-->[com.google.android.gms:play-services-base:18.0.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/a924a44fa08078e2ccd253df85a8f200/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+644            android:exported="false"
+644-->[com.google.android.gms:play-services-base:18.0.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/a924a44fa08078e2ccd253df85a8f200/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+645            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+645-->[com.google.android.gms:play-services-base:18.0.1] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/a924a44fa08078e2ccd253df85a8f200/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+646
+647        <provider
+647-->[com.google.firebase:firebase-common:20.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/6587422f061446ae8c202f81f6250e5c/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+648            android:name="com.google.firebase.provider.FirebaseInitProvider"
+648-->[com.google.firebase:firebase-common:20.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/6587422f061446ae8c202f81f6250e5c/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+649            android:authorities="com.khiladiadda.in.firebaseinitprovider"
+649-->[com.google.firebase:firebase-common:20.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/6587422f061446ae8c202f81f6250e5c/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+650            android:directBootAware="true"
+650-->[com.google.firebase:firebase-common:20.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/6587422f061446ae8c202f81f6250e5c/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+651            android:exported="false"
+651-->[com.google.firebase:firebase-common:20.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/6587422f061446ae8c202f81f6250e5c/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+652            android:initOrder="100" />
+652-->[com.google.firebase:firebase-common:20.2.0] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/6587422f061446ae8c202f81f6250e5c/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+653
+654        <service
+654-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/46e45642ae359794882a7de3e03e69d3/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+655            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+655-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/46e45642ae359794882a7de3e03e69d3/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+656            android:exported="false" >
+656-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/46e45642ae359794882a7de3e03e69d3/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+657            <meta-data
+657-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/46e45642ae359794882a7de3e03e69d3/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+658                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+658-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/46e45642ae359794882a7de3e03e69d3/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+659                android:value="cct" />
+659-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/46e45642ae359794882a7de3e03e69d3/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+660        </service>
+661        <service
+661-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/77563e99cbf31d6b9f253b96e2c5b88e/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+662            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+662-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/77563e99cbf31d6b9f253b96e2c5b88e/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+663            android:exported="false"
+663-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/77563e99cbf31d6b9f253b96e2c5b88e/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+664            android:permission="android.permission.BIND_JOB_SERVICE" >
+664-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/77563e99cbf31d6b9f253b96e2c5b88e/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+665        </service>
+666
+667        <receiver
+667-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/77563e99cbf31d6b9f253b96e2c5b88e/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+668            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+668-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/77563e99cbf31d6b9f253b96e2c5b88e/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+669            android:exported="false" />
+669-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/dheeraj/.gradle/caches/transforms-2/files-2.1/77563e99cbf31d6b9f253b96e2c5b88e/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+670    </application>
+671
+672</manifest>

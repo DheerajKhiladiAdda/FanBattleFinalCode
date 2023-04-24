@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: io.kommunicate.sdk:kommunicateui:2.4.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbff36f247cbf2bda28d03b59147733b/jetified-kommunicateui-2.4.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kommunicate.sdk/kommunicateui/2.4.6/60f8717366212d05e23a27fc52e06cc09b2c6edb/kommunicateui-2.4.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kommunicate.sdk/kommunicateui/2.4.6/99253cfbc8c8ce34e1db2bafd86fc55bf3334f3f/kommunicateui-2.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

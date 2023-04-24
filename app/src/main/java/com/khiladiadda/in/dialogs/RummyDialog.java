@@ -1,5 +1,4 @@
-package com.khiladiadda.dialogs;
-
+package com.khiladiadda.in.dialogs;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
@@ -7,34 +6,21 @@ import android.os.Bundle;
 import android.util.Base64;
 import android.view.View;
 import android.widget.Button;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.AppCompatButton;
-import androidx.constraintlayout.widget.ConstraintLayout;
-
 import com.appsflyer.AFInAppEventParameterName;
 import com.appsflyer.AppsFlyerLib;
 import com.google.android.material.bottomsheet.BottomSheetDialog;
-import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 import com.google.android.material.card.MaterialCardView;
-import com.khiladiadda.R;
-import com.khiladiadda.gameleague.GameWebActivity;
-import com.khiladiadda.gameleague.GamesFinalResultActivity;
-import com.khiladiadda.preference.AppSharedPreference;
-import com.khiladiadda.rummy.RummyGameWebActivity;
-import com.khiladiadda.utility.AppConstant;
-import com.khiladiadda.utility.AppUtilityMethods;
-import com.moengage.core.Properties;
-import com.moengage.core.analytics.MoEAnalyticsHelper;
-
+import com.khiladiadda.in.R;
+import com.khiladiadda.in.preference.AppSharedPreference;
+import com.khiladiadda.in.rummy.RummyGameWebActivity;
+import com.khiladiadda.in.utility.AppConstant;
 import java.io.UnsupportedEncodingException;
 import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.Map;
-
 public class RummyDialog extends BottomSheetDialog implements View.OnClickListener {
 
     private Button mPlayBTN;
@@ -110,7 +96,7 @@ public class RummyDialog extends BottomSheetDialog implements View.OnClickListen
                 dismiss();
                 break;
             case R.id.btn_play:
-                Intent intLeaderboard = new Intent(mContext, RummyGameWebActivity.class);
+                Intent intLeaderboard = new Intent(mContext,RummyGameWebActivity.class);
                 try {
                     intLeaderboard.putExtra("info", convertToBase64());
                 } catch (UnsupportedEncodingException e) {
@@ -122,10 +108,10 @@ public class RummyDialog extends BottomSheetDialog implements View.OnClickListen
                 eventParameters2.put(AppConstant.EntryFee, mEntryFee);
                 AppsFlyerLib.getInstance().logEvent(mContext, AppConstant.INVEST, eventParameters2);
                 //Mo Engage
-                Properties mProperties = new Properties();
+                /*Properties mProperties = new Properties();
                 mProperties.addAttribute(AppConstant.GAMETYPE, AppConstant.RUMMY);
                 mProperties.addAttribute("EnrtyFee", mEntryFee);
-                MoEAnalyticsHelper.INSTANCE.trackEvent(mContext, AppConstant.RUMMY, mProperties);
+                MoEAnalyticsHelper.INSTANCE.trackEvent(mContext, AppConstant.RUMMY, mProperties);*/
                 mContext.startActivity(intLeaderboard);
                 mOnPlayClicked.onPlayClicked();
                 dismiss();
